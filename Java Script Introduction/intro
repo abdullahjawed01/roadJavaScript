@@ -1,0 +1,74 @@
+JavaScript is a versatile, high-level programming language that is widely supported across all major operating systems.
+
+You can run JavaScript on your computer using the following two methods:
+
+Run JavaScript online
+Run JavaScript on your computer
+In this tutorial, you will learn both methods.
+
+
+To install JavaScript on your Windows, just follow these steps:
+
+Install VS Code
+Download Node msi file
+Install Node
+Verify your installation
+Here is a detailed explanation of each of the steps:
+
+Step 1: Install VS Code
+Go to the VS Code Official website and download the Windows installer. Once the download is complete, run the installer and follow the installation process.
+
+Click Finish to complete the installation process
+
+Step 2: Download the Node File
+Go to the official Node website and download the Node LTS version.
+
+JavaScript Download Page
+JavaScript Download Page
+Step 3: Run the Installer
+Now, go to your download folder and run the msi file you just downloaded. Depending on your security settings, you might be prompted to allow access. Just click on Next.
+
+Simply allow it and proceed.
+
+Then you will come across the install part.
+
+Install JavaScript on Windows
+Install JavaScript on Windows
+Simply click on install, Node will be successfully installed in your device.
+
+
+JavaScript Installation
+JavaScript Installation
+Step 4: Verify your installation
+After the installation is complete, you can verify whether JavaScript is installed by using the following command in the command prompt.
+
+node --version
+
+JavaScript Installation Verification for Windows
+JavaScript Installation Verification for Windows
+Note: The version number might differ from the one above, depending on your installed version.
+
+Now, you are all set to run JavaScript programs on your device.
+
+Run Your First JavaScript Program
+First open VS Code, click on the File in the top menu and then select New File.
+
+Create a New File in VS Code
+Create a New File in VS Code
+Then, save this file with a .js extension by clicking on File again, then Save As, and type your filename ending in .js. (Here, we are saving it as helloWorld.js).
+
+Before you start coding, make sure the extension Code Runner is installed in VS Code. Open VS Code and click on Extensions on the left sidebar. Then, search for the Code Runner and click on install.
+
+JavaScript Extension in VSCode
+JavaScript Extension in VSCode
+Now, write the following code into your helloWorld.js file:
+
+console.log("Hello World")
+
+Then click on the run button on the top right side of your screen.
+
+JavaScript Run Program 
+JavaScript Run Program
+You should see Hello World! printed to the output.
+
+Now that you have set everything up to run JavaScript programs on your computer, you'll be learning how the basic program works in JavaScript in the next tutorial.
